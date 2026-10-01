@@ -1,0 +1,12 @@
+<html style="background-color: #C936D3">
+  <h1 style="text-align: center; color:#65016C; font-size:55px">Полина</h1> 
+  <h2 style="text-align: center; color:#65016C; font-size:33px">Сайт-визитка</h2>
+<p style="text-align: center; color: #C936D3; font-size:35px; background-color:#65016C">Обо мне: <br> <img src="assets/я 67.webp" width="200px" Height="250px"> <br> я - отличница. Учеба для меня важна. </p> 
+  <h2 style="text-align: center; color: #C936D3; font-size:35px; background-color:#65016C">Мои интересы:</h2> 
+  <p style="color:#65016C; font-size:36px"> ________я кадет________подрабатываю аниматором___ люблю фоткать</p>
+ <img src="assets/кадет.webp" width="400px"> <img src="assets/1.webp" width="400px">  <img src="assets/2.webp" width="400px">
+  <h2 style="text-align: center; color:#65016C; font-size:33px">Интересные страницы</h2>
+  <a href="https://ru.wikipedia.org/wiki/Волейбол!?ysclid=mupmi130r3745289511" style="font-size:35px"> интересно посмотреть_______ </a>        
+ <a href="https://ru.wikipedia.org/wiki/Кадет_(воспитанник_кадетского_корпуса)?ysclid=mufpn9zszo386423895" style="font-size:35px"> про кадетов________ </a>
+  <a href="https://ru.wikipedia.org/wiki/Обучение?ysclid=mupmjvhrpn388102509" style="font-size:35px"> про учебу </a>
+</html>
